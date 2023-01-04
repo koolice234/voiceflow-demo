@@ -13,22 +13,22 @@
     "VOICEFLOW_API_KEY": {
       "description": "Voiceflow Project API Key",
       "required": true,
-      "value": ""
+      "value": "VF.DM.63b46e7c27a6f90007b7079a.FLz0fZUYBBUtGs82"
     },
     "SLACK_SIGNING_SECRET": {
       "description": "Slack app signing secret",
       "required": true,
-      "value": ""
+      "value": "c7dfb4b24681d57a40110599ce4beada"
     },
     "SLACK_BOT_TOKEN": {
       "description": "Slack bot token (starting with xoxb-)",
       "required": true,
-      "value": ""
+      "value": "xoxb-3915765188144-4613374850976-GDVs9VbiCDSHSCPEdqnC8ha2"
     },
     "SLACK_APP_TOKEN": {
       "description": "Slack app token (starting with xapp-)",
       "required": true,
-      "value": ""
+      "value": "xapp-1-A04HE3W0NSY-4589682639986-46d8555a759b2a3d4504f1358ba44c6f220900fd802872142faad776b8052494"
     }
   },
   "addons": [
